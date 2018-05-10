@@ -70,7 +70,7 @@ function scrollToTarget(D)
 		}
 	}
 
-	$('html,body').animate({scrollTop:D}, 'slow');
+	$('html,body').animate({scrollTop:D-50}, 'slow');
 }
 
 // Initial tooltips
