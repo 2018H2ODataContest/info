@@ -34,7 +34,8 @@ body{
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 	font-size: 18px;
-    font-family: "HuaKang"
+    font-family: "HuaKang";
+    letter-spacing: 3px;
 }
 a:hover{text-decoration: none; cursor:pointer;}
 
